@@ -1,3 +1,8 @@
+What this project is:
+An incremental game built with HTML and JavaScript, developed for the Summer 2025 “Women in STEM” coding camp. The project is inspired by the popular game Cookie Clicker and designed for beginner coders.
+
+
+Pointers on errors and small adjustments:
 HEY GUYS!
 
 These are just some pointers on what the students can have issues with, like a little debugger <3
