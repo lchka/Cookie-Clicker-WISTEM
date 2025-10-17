@@ -1,0 +1,1 @@
+An incremental game built with HTML and JavaScript, developed for the Summer 2025 “Women in STEM” coding camp. The project is inspired by the popular game Cookie Clicker and designed for beginner coders.
